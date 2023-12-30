@@ -1,0 +1,33 @@
+.button{
+    padding: 10px 25px;
+    margin: 4px;
+    border: 2px solid blueviolet;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+    align-items: center;
+}
+#input{
+    font-size: 20px;
+    padding: 8px;
+    width: 250px;
+    height: 25px;
+    margin: 10px;
+    border: 2px solid blue;
+}
+.heading{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.button:focus{
+    transform: scale(1.1);
+}
+
