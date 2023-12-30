@@ -15,3 +15,8 @@ This is a simple calculator implemented in JavaScript with HTML and CSS for basi
 
    ```bash
     https://github.com/codebadal/calculator-js.git
+
+##Demo
+
+ Check out the [live demo here](https://codebadal.github.io/calculator-js).
+
